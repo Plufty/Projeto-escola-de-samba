@@ -1,0 +1,16 @@
+5
+1
+escola champion
+eu1
+2
+escola vchampion
+eu2
+3
+escola middle
+eu3
+4
+escola lower
+eu4
+5
+escola vlower
+eu5
